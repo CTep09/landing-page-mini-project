@@ -4,6 +4,10 @@ img {
 }
 
 .header {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  color: white;
   background-color: rgba(165, 212, 241, 0.336);
 }
 
@@ -13,5 +17,9 @@ body {
 }
 
 footer {
-  background-color: rgba(238, 240, 212, 0.314);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.314);
+  color: rgb(0, 0, 0);
+  text-align: center;
 }
