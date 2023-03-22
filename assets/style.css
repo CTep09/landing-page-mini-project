@@ -2,3 +2,16 @@ img {
   height: 200px;
   width: 200px;
 }
+
+.header {
+  background-color: rgba(165, 212, 241, 0.336);
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(182, 231, 231);
+}
+
+footer {
+  background-color: rgba(238, 240, 212, 0.314);
+}
